@@ -3,9 +3,10 @@
 **Instructor:** Chul Min Yeum     
 **TAs:** Jason Connelly and Juan Park  
 **Date:** May 9, 2019   
-**Last updated**: 2019-04-28
+**Last updated**: 2019-05-09
 
 Please read, understand, and complete all the following sections.
+
 ## Table of Contents
 - [Github Account Creation](#github-account-creation)
 - [Recommended MATLAB Window Arrangements](#recommended-matlab-window-arrangements)
@@ -19,6 +20,9 @@ Please read, understand, and complete all the following sections.
 ![](img/github.png)
 
 >To post questions or comments, students should make their own Github account. Please sign up this website. Students **do not have to** make their accounts using **school emails** if they already have accounts or they want anonymity.
+
+
+Let's write a comment!
 
 ## Recommended MATLAB Window Arrangements
 The following MATLAB window arrangements are recommended to provide an optimal programming environment.
@@ -56,7 +60,7 @@ The actual live editor file is available [**here**](model/sample_problem_live_ed
 ### Editor Shortcut
 Please repeat the above processes using the keyboard shortcuts
 
-**script**  
+**Script**  
 
 `F5`: run all    
 `Ctrl + Enter`: run section  
@@ -67,7 +71,9 @@ Please repeat the above processes using the keyboard shortcuts
 `Ctrl + c`: stop   
 
 ### Live Editor Shortcuts
-Please repeat the above processes using the keyboard shortcuts
+Please repeat the above processes using the keyboard shortcuts.
+
+Open one of tutorials and use following shorcuts.
 
 **Text**  
 
@@ -112,7 +118,3 @@ Please solve all the questions in problem 1.
 **NOTE:** PLEASE SOLVE YOUR PROBLEM IN THE MATLAB EDITOR and CHECK YOUR SOLUTION THROUGH GRADER. 
 
 ![](img/lab01_problem1.png)
-
-## Lab Feedback Form
-(https://docs.google.com/forms/d/e/1FAIpQLSdtz97-ddUyMdrlS4XX2ZgzwjrWpjshoCVo96FLD4CU2pT1mw/viewform?usp=sf_link)
-
